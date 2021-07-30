@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi 👋, I'm Gustavo Spiess
+#### I'm a developer focused in code quality and long term manageability of the code base. Vim, LaTeX, LedgerCli and terminal interfaces in general enthusiast.
 
-<!--
-**gustavospiess/gustavospiess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 Reach me in  [**gustavospiess@gmail.com**](mailto:gustavospiess@gmail.com)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+### Quick notes about me:
+
+- I'm a Computer Science Bachalor studant in [FURB](furb.br).
+- I'm alson a enthusiast of Python as an scripting tool to solve daily problems, with command line interfaces using python `Click` package.
+- I have developped a couple of vim plugins for small necessities I had and you may find them in my [repositories](https://github.com/gustavospiess?tab=repositories).
+- I'm driven by curiosity, and like to reinvent the wheel from time to time as matter of practice.
