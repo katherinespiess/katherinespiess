@@ -1,4 +1,4 @@
-# Hi 👋, I'm Gustavo Spiess
+# Hi 👋, I'm Katherine Spiess
 #### I'm a developer focused in code quality and long term manageability of the code base. Vim, LaTeX, LedgerCli and terminal interfaces in general enthusiast.
 
 - 📫 Reach me in  [**gustavospiess@gmail.com**](mailto:gustavospiess@gmail.com)
