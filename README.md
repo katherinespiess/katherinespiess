@@ -18,7 +18,7 @@
 
 ### Quick notes about me:
 
-- I'm a Computer Science Bachalor studant at [FURB](furb.br).
+- I'm a Computer Science Bachalor student at [FURB](furb.br).
 - I'm also an enthusiast of Python as an scripting tool to solve daily problems, with command line interfaces using python `Click` package.
 - I have developped a couple of vim plugins for small necessities I had and you may find them in my [repositories](https://github.com/gustavospiess?tab=repositories).
 - I'm driven by curiosity, and like to reinvent the wheel from time to time as matter of practice.
